@@ -1,8 +1,8 @@
 
 // Pass the file path of each code file to render
 const contractPath = "sample-recipe/cadence/contract.cdc";
-const transactionPath = "sample-recipe/cadence/contract.cdc";
-const testPath = "sample-recipe/cadence/contract.cdc";
+const transactionPath = "sample-recipe/cadence/transaction.cdc";
+const testPath = "sample-recipe/cadence/tests.cdc";
 
 export const sampleRecipe = {
   slug: "sample-recipe",
